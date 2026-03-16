@@ -65,16 +65,6 @@ Collection of small Flutter applications including:
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/pema-namgay-60110528a" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-</p>
-
----
-
 ## 🛠️ Languages and Tools
 
 <p align="left">
