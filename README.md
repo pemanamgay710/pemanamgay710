@@ -6,21 +6,62 @@
 <img src="https://komarev.com/ghpvc/?username=pemanamgay710&label=Profile%20views&color=0e75b6&style=flat" alt="pemanamgay710" />
 </p>
 
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=pemanamgay710&theme=flat&margin-w=5&margin-h=5"/>
-</a>
-</p>
-
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Odoo 19 eCommerce System**
-- 🌱 Currently learning **Advanced Odoo Development**
-- 🧩 Interested in **system integration, APIs, and digital identity systems**
-- 🛠️ Building integrations such as **TikTok content publishing from Odoo**
+- 🔭 Currently developing an **Odoo 19 eCommerce System**
+- 🌱 Learning **Advanced Odoo development and system integration**
+- 🧩 Interested in **API integration, automation, and digital identity systems**
+- 🛠️ Working on **TikTok content publishing integration with Odoo**
 - 🎓 Developing a **Real-time Traffic Fine Management System for Bhutan**
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 Odoo 19 eCommerce System
+Custom eCommerce platform built with **Odoo 19** including product management, checkout flow, and integrations.
+
+---
+
+### ⚙️ CI Task Manager
+A Python-based application designed to automate and manage continuous integration tasks efficiently.
+
+---
+
+### 🏥 EPIS Mini Project
+A simplified implementation inspired by Bhutan’s **Electronic Patient Information System (EPIS)**.
+
+Technologies:
+- Python
+- Backend system design
+
+---
+
+### ☁️ Terraform + Ansible Infrastructure
+Infrastructure automation project demonstrating:
+
+- Infrastructure provisioning using **Terraform**
+- Configuration management using **Ansible**
+
+---
+
+### 📱 AgriMarket Android App
+Mobile application designed to connect farmers with buyers, enabling farmers to sell vegetables online.
+
+Features:
+- Product listing
+- Farmer marketplace
+- Mobile interface for agricultural products
+
+---
+
+### 📱 Flutter Mobile Applications
+Collection of small Flutter applications including:
+
+- **Favorite Words App** – generates random words and allows users to save favorites
+- **Login Page App** – authentication system integrated with Firebase
 
 ---
 
@@ -38,51 +79,51 @@
 
 <p align="left">
 
-<a href="https://www.python.org" target="_blank">
+<a href="https://www.python.org">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.odoo.com/" target="_blank">
+<a href="https://www.odoo.com/">
 <img src="https://cdn.worldvectorlogo.com/logos/odoo.svg" width="40" height="40"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.w3.org/html/" target="_blank">
+<a href="https://www.w3.org/html/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.w3schools.com/css/" target="_blank">
+<a href="https://www.w3schools.com/css/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.postgresql.org" target="_blank">
+<a href="https://www.postgresql.org">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://git-scm.com/" target="_blank">
+<a href="https://git-scm.com/">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.docker.com/" target="_blank">
+<a href="https://www.docker.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.nginx.com" target="_blank">
+<a href="https://www.nginx.com">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://postman.com" target="_blank">
+<a href="https://postman.com">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 </a>
 
-<a href="https://flutter.dev" target="_blank">
+<a href="https://flutter.dev">
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
 </a>
 
-<a href="https://firebase.google.com/" target="_blank">
+<a href="https://firebase.google.com/">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
 </a>
 
@@ -100,4 +141,4 @@
 
 ---
 
-⭐ *Open to collaboration on software projects and system integrations.*
+⭐ *Open to collaboration on software projects, backend systems, and system integrations.*
