@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently developing an **Odoo 19 eCommerce System**
+- 🔭 Developed a fully functional **eCommerce System** using Odoo
 - 🌱 Learning **Advanced Odoo development and system integration**
 - 🧩 Interested in **API integration, automation, and digital identity systems**
 - 🛠️ Working on **TikTok content publishing integration with Odoo**
@@ -20,8 +20,8 @@
 
 ## 📌 Featured Projects
 
-### 🛒 Odoo 19 eCommerce System
-Custom eCommerce platform built with **Odoo 19** including product management, checkout flow, and integrations.
+### 🛒 Odoo eCommerce System
+Custom eCommerce platform built with **Odoo v19** including product management, checkout flow, detailed order tracking, delivery and integrations(NDI, TikTok).
 
 ---
 
