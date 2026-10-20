@@ -2,9 +2,6 @@
 <h3 align="center">Linux Technologies | Assistant Lecturer, Software Engineering</h3>
 <p align="center">📍 Bhutan</p>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=pemanamgay710&label=Profile%20views&color=0e75b6&style=flat" alt="pemanamgay710" />
-</p>
 
 ---
 
