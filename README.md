@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Pema Namgay 👋</h1>
-<h3 align="center">Linux Technologies | Assistant Lecturer, Software Engineering</h3>
-<p align="center">📍 Bhutan</p>
+<h3 align="center">Linux Technologies | Software Engineering</h3>
+<p align="center">📍 CST | Bhutan</p>
 
 
 ---
